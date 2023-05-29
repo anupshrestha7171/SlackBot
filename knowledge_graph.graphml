@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Resham Chaudhary" />
+    <node id="Tek Nath Rizal" />
+    <node id="Vulture Theatre" />
+    <node id="Poco F5 Pro" />
+    <node id="Govt" />
+    <node id="Nepal PM Dahal" />
+    <node id="Supreme Court" />
+    <node id="National Assembly" />
+    <node id="Dahal cabinet" />
+    <node id="Girl" />
+    <node id="Man" />
+    <node id="Bagmati province" />
+    <node id="Gautam Buddha International Airport" />
+    <node id="MDMS system" />
+    <node id="Smoking" />
+    <node id="Gary Wornell" />
+    <node id="Hydrafacial in Nepal" />
+    <node id="Nepal Airlines" />
+    <node id="Ponds in Bhaktapur" />
+    <node id="Kami Rita Sherpa" />
+    <node id="Ripples of Thirst" />
+    <node id="Bhoto Dekhaune Jatra" />
+    <node id="Dabali" />
+    <node id="Vipassana in Nepal" />
+    <node id="Grassroots groups" />
+    <node id="Bajhang avalanche" />
+    <node id="Nepal biodiversity" />
+    <node id="ICC World Cup Qualifiers" />
+    <node id="ANFA" />
+    <node id="CAVA Women's Volleyball" />
+    <node id="Monkey Temple" />
+    <node id="fake Bhutanese refugee scam" />
+    <node id="Nepal" />
+    <node id="a rebranding, remarkable release" />
+    <node id="India from May 31 to June 3" />
+    <node id="Bindabasini Kansakar to replace Dhaka Kumar Shrestha" />
+    <node id="annual policy and programme" />
+    <node id="one minister, one state minister inducted" />
+    <node id="Khandbari" />
+    <node id="Rautahat" />
+    <node id="3,000 old vehicles amid entrepreneurs' protest" />
+    <node id="" />
+    <node id="electricity from petroleum" />
+    <node id="5 million phones in Nepal 'illegal' amid concerns over data security of legal phones" />
+    <node id="public places, warns of action in case of rule breach" />
+    <node id="Nepali crafts" />
+    <node id="Kathmandu-Sydney flights via Singapore" />
+    <node id="Everest 28th time, leaving Pasang Dawa Sherpa behind the record" />
+    <node id="the Kathmandu valley on Thursday" />
+    <node id="sustainable planning in traditional architecture in Kathmandu" />
+    <node id="human-wildlife conflict across the India-Nepal border" />
+    <node id="U23 Asian Cup Qualifiers citing lack of funds" />
+    <edge source="Resham Chaudhary" target="fake Bhutanese refugee scam">
+      <data key="d0">involved in</data>
+    </edge>
+    <edge source="Resham Chaudhary" target="Govt">
+      <data key="d0">prepares to release</data>
+    </edge>
+    <edge source="Tek Nath Rizal" target="fake Bhutanese refugee scam">
+      <data key="d0">involved in</data>
+    </edge>
+    <edge source="Vulture Theatre" target="Nepal">
+      <data key="d0">misunderstood in</data>
+    </edge>
+    <edge source="Poco F5 Pro" target="a rebranding, remarkable release">
+      <data key="d0">despite being</data>
+    </edge>
+    <edge source="Nepal PM Dahal" target="India from May 31 to June 3">
+      <data key="d0">to visit</data>
+    </edge>
+    <edge source="Supreme Court" target="Bindabasini Kansakar to replace Dhaka Kumar Shrestha">
+      <data key="d0">clears the decks for</data>
+    </edge>
+    <edge source="National Assembly" target="annual policy and programme">
+      <data key="d0">endorses</data>
+    </edge>
+    <edge source="Dahal cabinet" target="one minister, one state minister inducted">
+      <data key="d0">gets full shape with</data>
+    </edge>
+    <edge source="Girl" target="Khandbari">
+      <data key="d0">hacked to death in</data>
+    </edge>
+    <edge source="Man" target="Rautahat">
+      <data key="d0">shot dead in</data>
+    </edge>
+    <edge source="Bagmati province" target="3,000 old vehicles amid entrepreneurs' protest">
+      <data key="d0">removing over</data>
+    </edge>
+    <edge source="Gautam Buddha International Airport" target="">
+      <data key="d0">revenue collection low at</data>
+    </edge>
+    <edge source="MDMS system" target="5 million phones in Nepal 'illegal' amid concerns over data security of legal phones">
+      <data key="d0">renders</data>
+    </edge>
+    <edge source="Smoking" target="public places, warns of action in case of rule breach">
+      <data key="d0">banned in</data>
+    </edge>
+    <edge source="Gary Wornell" target="Nepali crafts">
+      <data key="d0">dedicated his life to promoting</data>
+    </edge>
+    <edge source="Hydrafacial in Nepal" target="">
+      <data key="d0" />
+    </edge>
+    <edge source="Nepal Airlines" target="Kathmandu-Sydney flights via Singapore">
+      <data key="d0">preparing for</data>
+    </edge>
+    <edge source="Ponds in Bhaktapur" target="">
+      <data key="d0">your next rest stop, a breath of fresh air</data>
+    </edge>
+    <edge source="Kami Rita Sherpa" target="Everest 28th time, leaving Pasang Dawa Sherpa behind the record">
+      <data key="d0">climbs</data>
+    </edge>
+    <edge source="Ripples of Thirst" target="">
+      <data key="d0">Kathmandu's ancient hiti system awaits revival</data>
+    </edge>
+    <edge source="Bhoto Dekhaune Jatra" target="the Kathmandu valley on Thursday">
+      <data key="d0">public holiday in</data>
+    </edge>
+    <edge source="Dabali" target="sustainable planning in traditional architecture in Kathmandu">
+      <data key="d0">an example of</data>
+    </edge>
+    <edge source="Vipassana in Nepal" target="">
+      <data key="d0">Know why international celebrities come to the country for meditation</data>
+    </edge>
+    <edge source="Grassroots groups" target="human-wildlife conflict across the India-Nepal border">
+      <data key="d0">tackle</data>
+    </edge>
+    <edge source="Bajhang avalanche" target="">
+      <data key="d0">1 dead, 2 missing</data>
+    </edge>
+    <edge source="Nepal biodiversity" target="">
+      <data key="d0">9 flora and fauna species found almost exclusively in the region</data>
+    </edge>
+    <edge source="ICC World Cup Qualifiers" target="">
+      <data key="d0">CAN deems no warm-up against test nations unfair</data>
+    </edge>
+    <edge source="ANFA" target="U23 Asian Cup Qualifiers citing lack of funds">
+      <data key="d0">pulls out of</data>
+    </edge>
+    <edge source="CAVA Women's Volleyball" target="">
+      <data key="d0">Nepal, India reach semis, to play for top spot tomorrow</data>
+    </edge>
+    <edge source="Monkey Temple" target="">
+      <data key="d0">8 songs from Nepal's pioneering alternative rock band you shouldn't miss</data>
+    </edge>
+    <edge source="Nepal" target="electricity from petroleum">
+      <data key="d0">preparing to shift to</data>
+    </edge>
+  </graph>
+</graphml>
